@@ -22,8 +22,8 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://3.16.188.166:9000//</sonar.host.url>
-                <sonar.login>admin</sonar.login>
-		<sonar.password>Bharath@507</sonar.password>
+                <sonar.login>e8101fe591be14f45f79e7f65cacd8e5e624068a</sonar.login>
+		
 		
              
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
